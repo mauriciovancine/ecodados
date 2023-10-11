@@ -34,4 +34,3 @@ Para carregar todos os conjuntos de dados:
 library(ecodados)
 head(rarefacao_morcegos)
 ```
-
